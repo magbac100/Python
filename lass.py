@@ -7,4 +7,4 @@ def my_func(w,e):
 def my_function(a):
     print("Hello from a function ")
 
-my_func(6,95)
+my_func(6,96)
